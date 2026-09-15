@@ -2,13 +2,13 @@
 
 # Hey, I'm Diksha 👋
 
-### Software Engineering × Applied AI
+### Building toward Software Engineering × Applied AI
 
-**C++ • Python • Machine Learning • Building & Learning in Public**
+**C++ • Python • Exploring ML/AI • Learning by Building**
 
 <br>
 
-> *Learning how to build software that goes beyond "it works on my laptop."*
+> *Building projects, strengthening fundamentals, and learning along the way.*
 
 <br>
 
@@ -19,22 +19,21 @@
 
 ---
 
-## 👩‍💻 A little about me
+## 👩‍💻 A Little About Me
 
-I'm a Computer Science & Engineering (Data Science) student who enjoys
-**building things, breaking them, figuring out why they broke, and making them better.**
+I'm a Computer Science & Engineering (Data Science) student who likes figuring out
+**how things work, why they break, and how to make them better.**
 
-My strongest experience so far is in **Python, machine learning and deep learning**, and I'm currently putting serious effort into becoming a stronger **software engineer** alongside that.
+I'm currently strengthening my **programming and problem-solving foundations**, while gradually exploring **software engineering, machine learning, and applied AI** through hands-on projects.
 
-Right now you'll probably find me:
+Right now, I'm focused on:
 
-- 🧩 solving DSA problems in **C++** and getting comfortable with the STL
-- 🐍 building and experimenting with **Python**
-- 🧠 working with **deep learning / computer vision**
-- ⚙️ learning how **backend systems and APIs** actually work
-- 🔨 improving old projects instead of abandoning them for shiny new ones
+- 🧩 improving my problem-solving skills with **C++ & DSA**
+- 🧰 getting more comfortable with **C++ STL**
+- 🐍 strengthening my **Python** fundamentals
+- 🔨 improving projects I've already built instead of constantly starting new ones
 
-I'm still early in the journey — this profile is where I'm documenting the progress.
+I'm still early in the journey — and this profile will grow as I do.
 
 ---
 
@@ -42,35 +41,33 @@ I'm still early in the journey — this profile is where I'm documenting the pro
 
 ### Plant Disease Detection System
 
-`Python` `TensorFlow` `Keras` `Transfer Learning` `Streamlit` `Grad-CAM`
+`Python` `TensorFlow` `Keras` `Transfer Learning` `Streamlit`
 
-A deep-learning system for identifying plant diseases from leaf images across
+A deep-learning project for identifying plant diseases from leaf images across
 **38 healthy and diseased classes**.
 
-What started as a college ML project turned into a much deeper experiment with
-different architectures and training strategies.
+I experimented with different transfer-learning architectures and training
+strategies while building the project.
 
-**Some things I explored:**
+### 🔬 What I worked with
 
-- MobileNetV2 as my initial transfer-learning model
-- EfficientNetB0 as an improved architecture
-- fine-tuning
-- stronger image augmentation
-- class weighting
-- label smoothing
-- evaluation on a separate test set
-- Grad-CAM for understanding model predictions
-- a Streamlit interface for predictions
+- **MobileNetV2** as an initial transfer-learning model
+- **EfficientNetB0** as an improved architecture
+- Fine-tuning
+- Image augmentation
+- Class weighting
+- Label smoothing
+- Evaluation on a separate test dataset
+- A **Streamlit** interface for predictions
 
-### The result
+### 📈 Experimentation
 
-**~93% MobileNetV2 → ~99% EfficientNetB0 test accuracy**
+**MobileNetV2 (~93%) → EfficientNetB0 (~99%) test accuracy**
 
-But accuracy isn't where I want the project to end.
+The model works, but I don't want the project to stop at model accuracy.
 
-I'm currently learning the engineering needed to eventually add things like
-an inference API, tests, Docker, CI/CD and deployment — **one piece at a time,
-and only after I understand what I'm adding.**
+As I learn more software engineering, I plan to revisit this project and gradually
+improve its structure, testing, deployment and overall engineering quality.
 
 ### → [Explore the project](https://github.com/DikshaSirohi/plant-disease-detection)
 
@@ -80,35 +77,40 @@ and only after I understand what I'm adding.**
 
 ```mermaid
 flowchart LR
-    A["💻 Programming"] --> B["🧩 DSA<br/>C++"]
-    B --> C["🐍 Python<br/>ML"]
-    C --> D["🧠 Deep<br/>Learning"]
-    D -. Learning .-> E["⚙️ Backend<br/>Engineering"]
-    E -. Next .-> F["✨ Applied<br/>GenAI"]
-    F -. Next .-> G["☁️ Cloud &<br/>Deployment"]
+    A["💻 Programming<br/>Foundations"] --> B["🧩 DSA<br/>& C++"]
+    B --> C["🐍 Python"]
+    C -. Exploring .-> D["🧠 ML /<br/>Deep Learning"]
+    D -. Next .-> E["⚙️ Backend<br/>Engineering"]
+    E -. Future .-> F["✨ Applied<br/>AI"]
+    F -. Future .-> G["☁️ Cloud &<br/>Deployment"]
 
     style A fill:#6C63FF,color:#fff
     style B fill:#7C4DFF,color:#fff
     style C fill:#536DFE,color:#fff
-    style D fill:#448AFF,color:#fff
-    style E fill:#37474F,color:#fff
-    style F fill:#37474F,color:#fff
-    style G fill:#37474F,color:#fff
+    style D fill:#455A64,color:#fff
+    style E fill:#455A64,color:#fff
+    style F fill:#455A64,color:#fff
+    style G fill:#455A64,color:#fff
 ```
 
-**Solid arrows = areas I've already worked with**  
-**Dotted arrows = what I'm currently learning / moving toward**
+**Solid arrows → foundations I'm currently building**  
+**Dotted arrows → areas I'm exploring or plan to learn next**
 
-No speedrun. I want to actually understand each layer.
+I'm not trying to speedrun the stack. I want to understand each layer well enough
+to actually build with it.
 
 ---
 
-## 🧰 What I've Actually Worked With
+## 🧰 Current Toolkit
+
+These are technologies I've used or had exposure to through projects,
+coursework and practice.
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -116,65 +118,89 @@ No speedrun. I want to actually understand each layer.
 
 </div>
 
-Also worked with:
+<br>
 
-`C` • `JavaScript` • `HTML/CSS` • `Streamlit` • `GitHub` • `AWS guided labs`
+Also exposed to:
+
+`JavaScript` • `HTML/CSS` • `Streamlit` • `GitHub` • `AWS guided labs`
 
 ---
 
-## 📚 Currently Learning
+## 📚 What I'm Learning Now
 
-This is the part of my stack that's **under construction** 🚧
-
-| Area | Current Focus |
+| Area | Focus |
 |---|---|
-| 🧩 **DSA** | C++ STL, patterns & problem solving |
-| ⚙️ **Backend** | Python, HTTP, REST APIs & FastAPI fundamentals |
-| 🗄️ **Databases** | SQL fundamentals → PostgreSQL |
-| 🧪 **Engineering** | Testing & better project structure |
-| 🤖 **Applied AI** | LLM fundamentals, embeddings & RAG |
-| ☁️ **Deployment** | Docker, CI/CD & AWS — progressively |
-
-**Learning ≠ claiming mastery.**
-
-As I build projects with these, they'll move out of this section and into my actual stack.
+| 🧩 **DSA** | C++ problem solving & pattern recognition |
+| 🧰 **C++** | STL and writing cleaner solutions |
+| 🐍 **Python** | Strengthening programming fundamentals |
+| 🧠 **ML/AI** | Understanding the fundamentals behind what I build |
+| 🌿 **Projects** | Improving code quality and understanding my existing work |
 
 ---
 
-## 🔨 What I'm Building Next
+## 🔭 What's Next
+
+There are several areas I want to progressively learn as my fundamentals improve:
+
+```text
+Backend fundamentals
+        ↓
+HTTP & REST APIs
+        ↓
+FastAPI
+        ↓
+Databases / PostgreSQL
+        ↓
+Testing
+        ↓
+Docker
+        ↓
+Applied AI / RAG
+        ↓
+CI/CD & Deployment
+```
+
+These are **learning goals, not technologies I'm claiming to know yet.**
+
+As I actually learn and build with them, they'll move into my current toolkit.
+
+---
+
+## 💡 A Project I Want to Build
 
 ### Codebase Intelligence / Developer Support System
 
-I'm starting a new project around a question I find interesting:
+One of the larger projects I eventually want to build is a system that helps
+developers understand and navigate software repositories.
 
-> **Can we build a system that actually understands enough context from a
-> codebase to help a developer navigate it?**
+The idea is to eventually explore things like:
 
-Eventually, I'd like it to work with repositories and documentation to retrieve
-relevant code and answer questions with evidence from the source.
+- retrieving relevant code and files
+- understanding repository context
+- working with documentation
+- answering questions using retrieved evidence
+- exploring how retrieval and LLMs can work together
 
-Right now?
+But I'm **not building the complicated version first**.
 
-**I'm starting with the fundamentals.**
+Before starting it properly, I want to understand the backend and software
+engineering fundamentals that the project would depend on.
+
+So the progression will be closer to:
 
 ```text
-Learn backend basics
+Learn the fundamentals
         ↓
-Build a simple API
+Build small components
         ↓
-Understand repository ingestion
+Understand how they connect
         ↓
-Learn embeddings & retrieval
+Build the actual system
         ↓
-Build basic RAG
+Test whether it works
         ↓
-Evaluate whether it actually works
-        ↓
-Improve the engineering around it
+Improve it
 ```
-
-I'll build this repository progressively rather than uploading a finished
-AI-generated codebase.
 
 ---
 
@@ -183,27 +209,27 @@ AI-generated codebase.
 ```text
 Write more code.
 Understand more of the code I write.
-Solve harder problems.
+Get better at problem solving.
 Build fewer — but better — projects.
-Ship things that actually work.
+Keep improving.
 ```
 
-My GitHub today isn't supposed to represent the engineer I want to be in
-three years.
+I don't expect this GitHub profile to represent the engineer I want to be
+three years from now.
 
-**It's supposed to show that I'm becoming one.**
+**I want it to show the progress toward becoming one.**
 
 ---
 
 <div align="center">
 
-### Find me elsewhere
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diksha_Sirohi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-sirohi-b8528228b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Diksha__Sirohi-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Diksha_Sirohi/)
 
 <br>
 
-### `learn → build → break → debug → improve → ship`
+### `learn → build → understand → improve → repeat`
 
 </div>
